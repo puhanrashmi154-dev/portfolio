@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="12" fill="#0A0E1A"/>
+  <polygon points="32,4 56,18 56,46 32,60 8,46 8,18" fill="none" stroke="#00F5FF" stroke-width="2" opacity="0.9"/>
+  <polygon points="32,10 50,21 50,43 32,54 14,43 14,21" fill="#0D1525"/>
+  <line x1="14" y1="28" x2="50" y2="28" stroke="#00F5FF" stroke-width="0.5" opacity="0.12"/>
+  <line x1="14" y1="33" x2="50" y2="33" stroke="#00F5FF" stroke-width="0.5" opacity="0.12"/>
+  <line x1="14" y1="38" x2="50" y2="38" stroke="#00F5FF" stroke-width="0.5" opacity="0.12"/>
+  <text x="22" y="40" font-family="Arial Black, sans-serif" font-weight="900" font-size="22" fill="#00F5FF" text-anchor="middle">R</text>
+  <text x="43" y="40" font-family="Arial Black, sans-serif" font-weight="900" font-size="22" fill="#7928CA" text-anchor="middle">P</text>
+  <circle cx="32" cy="4" r="2.5" fill="#00F5FF"/>
+  <circle cx="56" cy="18" r="2.5" fill="#7928CA"/>
+  <circle cx="56" cy="46" r="2.5" fill="#7928CA"/>
+  <circle cx="32" cy="60" r="2.5" fill="#00F5FF"/>
+  <circle cx="8" cy="46" r="2.5" fill="#7928CA"/>
+  <circle cx="8" cy="18" r="2.5" fill="#7928CA"/>
+  <polygon points="32,4 56,18 56,46 32,60 8,46 8,18" fill="none" stroke="#7928CA" stroke-width="0.8" opacity="0.35"/>
+</svg>
